@@ -1,0 +1,13 @@
+D:\Code_Space\OnTapDe02\OnTapDe02\obj\Debug\OnTapDe02.csproj.AssemblyReference.cache
+D:\Code_Space\OnTapDe02\OnTapDe02\obj\Debug\OnTapDe02.frm_DangNhap.resources
+D:\Code_Space\OnTapDe02\OnTapDe02\obj\Debug\OnTapDe02.Properties.Resources.resources
+D:\Code_Space\OnTapDe02\OnTapDe02\obj\Debug\OnTapDe02.csproj.GenerateResource.cache
+D:\Code_Space\OnTapDe02\OnTapDe02\obj\Debug\OnTapDe02.csproj.CoreCompileInputs.cache
+D:\Code_Space\OnTapDe02\OnTapDe02\bin\Debug\QLNHANVIEN.mdf
+D:\Code_Space\OnTapDe02\OnTapDe02\bin\Debug\QLNHANVIEN_log.ldf
+D:\Code_Space\OnTapDe02\OnTapDe02\bin\Debug\OnTapDe02.exe.config
+D:\Code_Space\OnTapDe02\OnTapDe02\bin\Debug\OnTapDe02.exe
+D:\Code_Space\OnTapDe02\OnTapDe02\bin\Debug\OnTapDe02.pdb
+D:\Code_Space\OnTapDe02\OnTapDe02\obj\Debug\OnTapDe02.exe
+D:\Code_Space\OnTapDe02\OnTapDe02\obj\Debug\OnTapDe02.pdb
+D:\Code_Space\OnTapDe02\OnTapDe02\obj\Debug\OnTapDe02.frm_QLNV.resources

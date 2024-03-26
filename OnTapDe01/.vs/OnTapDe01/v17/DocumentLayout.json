@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Code_Space\\OnTapDe01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{945E6835-370E-44D1-87A1-4D3EEEA5A441}|OnTapDe01\\OnTapDe01.csproj|d:\\code_space\\ontapde01\\ontapde01\\frm_hoso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{945E6835-370E-44D1-87A1-4D3EEEA5A441}|OnTapDe01\\OnTapDe01.csproj|solutionrelative:ontapde01\\frm_hoso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{945E6835-370E-44D1-87A1-4D3EEEA5A441}|OnTapDe01\\OnTapDe01.csproj|d:\\code_space\\ontapde01\\ontapde01\\frm_hoso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{945E6835-370E-44D1-87A1-4D3EEEA5A441}|OnTapDe01\\OnTapDe01.csproj|solutionrelative:ontapde01\\frm_hoso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{945E6835-370E-44D1-87A1-4D3EEEA5A441}|OnTapDe01\\OnTapDe01.csproj|d:\\code_space\\ontapde01\\ontapde01\\lopdungchung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{945E6835-370E-44D1-87A1-4D3EEEA5A441}|OnTapDe01\\OnTapDe01.csproj|solutionrelative:ontapde01\\lopdungchung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__CODE_SPACE_ONTAPDE01_ONTAPDE01_DATABASE.MDF/True/SqlTable/dbo.GIAOVIEN.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{945E6835-370E-44D1-87A1-4D3EEEA5A441}|OnTapDe01\\OnTapDe01.csproj|d:\\code_space\\ontapde01\\ontapde01\\frm_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{945E6835-370E-44D1-87A1-4D3EEEA5A441}|OnTapDe01\\OnTapDe01.csproj|solutionrelative:ontapde01\\frm_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__CODE_SPACE_ONTAPDE01_ONTAPDE01_DATABASE.MDF/True/SqlTable/dbo.KHACHHANG.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{945E6835-370E-44D1-87A1-4D3EEEA5A441}|OnTapDe01\\OnTapDe01.csproj|d:\\code_space\\ontapde01\\ontapde01\\frm_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{945E6835-370E-44D1-87A1-4D3EEEA5A441}|OnTapDe01\\OnTapDe01.csproj|solutionrelative:ontapde01\\frm_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{945E6835-370E-44D1-87A1-4D3EEEA5A441}|OnTapDe01\\OnTapDe01.csproj|d:\\code_space\\ontapde01\\ontapde01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{945E6835-370E-44D1-87A1-4D3EEEA5A441}|OnTapDe01\\OnTapDe01.csproj|solutionrelative:ontapde01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "dbo.KHACHHANG [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__CODE_SPACE_ONTAPDE01_ONTAPDE01_DATABASE.MDF/True/SqlTable/dbo.KHACHHANG.sql",
+              "ToolTip": "dbo.KHACHHANG [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-03-26T01:24:34.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dbo.GIAOVIEN [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__CODE_SPACE_ONTAPDE01_ONTAPDE01_DATABASE.MDF/True/SqlTable/dbo.GIAOVIEN.sql",
+              "ToolTip": "dbo.GIAOVIEN [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-03-26T01:22:19.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LOPDUNGCHUNG.cs",
+              "DocumentMoniker": "D:\\Code_Space\\OnTapDe01\\OnTapDe01\\LOPDUNGCHUNG.cs",
+              "RelativeDocumentMoniker": "OnTapDe01\\LOPDUNGCHUNG.cs",
+              "ToolTip": "D:\\Code_Space\\OnTapDe01\\OnTapDe01\\LOPDUNGCHUNG.cs",
+              "RelativeToolTip": "OnTapDe01\\LOPDUNGCHUNG.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T10:15:12.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frm_Main.cs",
+              "DocumentMoniker": "D:\\Code_Space\\OnTapDe01\\OnTapDe01\\frm_Main.cs",
+              "RelativeDocumentMoniker": "OnTapDe01\\frm_Main.cs",
+              "ToolTip": "D:\\Code_Space\\OnTapDe01\\OnTapDe01\\frm_Main.cs",
+              "RelativeToolTip": "OnTapDe01\\frm_Main.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T09:56:29.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frm_HoSo.cs",
+              "DocumentMoniker": "D:\\Code_Space\\OnTapDe01\\OnTapDe01\\frm_HoSo.cs",
+              "RelativeDocumentMoniker": "OnTapDe01\\frm_HoSo.cs",
+              "ToolTip": "D:\\Code_Space\\OnTapDe01\\OnTapDe01\\frm_HoSo.cs",
+              "RelativeToolTip": "OnTapDe01\\frm_HoSo.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAAwFIAAAC2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T09:49:21.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frm_HoSo.cs [Design]",
+              "DocumentMoniker": "D:\\Code_Space\\OnTapDe01\\OnTapDe01\\frm_HoSo.cs",
+              "RelativeDocumentMoniker": "OnTapDe01\\frm_HoSo.cs",
+              "ToolTip": "D:\\Code_Space\\OnTapDe01\\OnTapDe01\\frm_HoSo.cs [Design]",
+              "RelativeToolTip": "OnTapDe01\\frm_HoSo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T09:46:59.045Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frm_Main.cs [Design]",
+              "DocumentMoniker": "D:\\Code_Space\\OnTapDe01\\OnTapDe01\\frm_Main.cs",
+              "RelativeDocumentMoniker": "OnTapDe01\\frm_Main.cs",
+              "ToolTip": "D:\\Code_Space\\OnTapDe01\\OnTapDe01\\frm_Main.cs [Design]",
+              "RelativeToolTip": "OnTapDe01\\frm_Main.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T09:46:01.749Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code_Space\\OnTapDe01\\OnTapDe01\\Program.cs",
+              "RelativeDocumentMoniker": "OnTapDe01\\Program.cs",
+              "ToolTip": "D:\\Code_Space\\OnTapDe01\\OnTapDe01\\Program.cs",
+              "RelativeToolTip": "OnTapDe01\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T09:45:49.45Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

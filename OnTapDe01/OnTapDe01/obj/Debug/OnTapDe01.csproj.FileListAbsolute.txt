@@ -1,0 +1,13 @@
+D:\Code_Space\OnTapDe01\OnTapDe01\bin\Debug\Database.mdf
+D:\Code_Space\OnTapDe01\OnTapDe01\bin\Debug\Database_log.ldf
+D:\Code_Space\OnTapDe01\OnTapDe01\bin\Debug\OnTapDe01.exe.config
+D:\Code_Space\OnTapDe01\OnTapDe01\bin\Debug\OnTapDe01.exe
+D:\Code_Space\OnTapDe01\OnTapDe01\bin\Debug\OnTapDe01.pdb
+D:\Code_Space\OnTapDe01\OnTapDe01\obj\Debug\OnTapDe01.csproj.AssemblyReference.cache
+D:\Code_Space\OnTapDe01\OnTapDe01\obj\Debug\OnTapDe01.frm_HoSo.resources
+D:\Code_Space\OnTapDe01\OnTapDe01\obj\Debug\OnTapDe01.frm_Main.resources
+D:\Code_Space\OnTapDe01\OnTapDe01\obj\Debug\OnTapDe01.Properties.Resources.resources
+D:\Code_Space\OnTapDe01\OnTapDe01\obj\Debug\OnTapDe01.csproj.GenerateResource.cache
+D:\Code_Space\OnTapDe01\OnTapDe01\obj\Debug\OnTapDe01.csproj.CoreCompileInputs.cache
+D:\Code_Space\OnTapDe01\OnTapDe01\obj\Debug\OnTapDe01.exe
+D:\Code_Space\OnTapDe01\OnTapDe01\obj\Debug\OnTapDe01.pdb
